@@ -57,6 +57,7 @@ Internet → Honeypot (SSH:22 Open) → Wazuh Agent → Wazuh SIEM → Security 
 
 ### Wazuh Dashboard - Active Monitoring
 ![Wazuh Dashboard](screenshots/wazuh-dashboard.png)
+![Wazuh Dashboard1](screenshots/security-events0.png)
 
 ### Attack Events Timeline
 ![Security Events](screenshots/security-events.png)
@@ -66,6 +67,10 @@ Internet → Honeypot (SSH:22 Open) → Wazuh Agent → Wazuh SIEM → Security 
 
 ### PCI DSS Compliance Violations
 ![PCI DSS](screenshots/pci-dss.png)
+![PCI DSS](screenshots/pci.dss01.png)
+
+### NIST 800-53 Compliance Requirements
+![NIST 800-53](screenshots/NIST800-53.AC.6.png)
 
 *Additional screenshots available in `/screenshots` directory*
 
