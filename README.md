@@ -70,7 +70,7 @@ Internet → Honeypot (SSH:22 Open) → Wazuh Agent → Wazuh SIEM → Security 
 ![PCI DSS](screenshots/pci.dss01.png)
 
 ### NIST 800-53 Compliance Requirements
-![NIST 800-53](screenshots/NIST800-53.AC.6.png)
+![NIST 800-53](screenshots/NIST800-53requirementsAU.6.png)
 
 *Additional screenshots available in `/screenshots` directory*
 
