@@ -67,7 +67,7 @@ Internet → Honeypot (SSH:22 Open) → Wazuh Agent → Wazuh SIEM → Security 
 
 ### PCI DSS Compliance Violations
 ![PCI DSS](screenshots/pci-dss.png)
-![PCI DSS](screenshots/pci.dss01.png)
+![PCI DSS](screenshots/pci-dss01.png)
 
 ### NIST 800-53 Compliance Requirements
 ![NIST 800-53](screenshots/NIST800-53requirementsAU.6.png)
