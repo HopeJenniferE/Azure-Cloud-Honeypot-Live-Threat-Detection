@@ -349,12 +349,12 @@ For organizations operating similar infrastructure:
 
 ### 9.1 Objectives Achieved
 
-✅ **Successfully deployed** cloud-native honeypot infrastructure  
-✅ **Captured real-world attack data** exceeding 2,900 events  
-✅ **Implemented enterprise SIEM** with Wazuh  
-✅ **Mapped attacks to MITRE ATT&CK** framework  
-✅ **Generated actionable threat intelligence**  
-✅ **Documented findings** in professional security report  
+**Successfully deployed** cloud-native honeypot infrastructure  
+**Captured real-world attack data** exceeding 2,900 events  
+**Implemented enterprise SIEM** with Wazuh  
+**Mapped attacks to MITRE ATT&CK** framework  
+**Generated actionable threat intelligence**  
+**Documented findings** in professional security report  
 
 ### 9.2 Skills Demonstrated
 
