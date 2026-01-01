@@ -6,7 +6,7 @@ Cloud Security Monitoring Project: Deployed Azure honeypot and captured 2900+ re
 ![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-005571)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-Deployed an intentionally vulnerable honeypot in Microsoft Azure and captured **2,953 real-world cyber attacks** in 24 hours using Wazuh SIEM.
+Deployed an intentionally vulnerable honeypot in Microsoft Azure and captured **5,181 real-world cyber attacks** in 24 hours using Wazuh SIEM.
 
 ---
 
@@ -14,7 +14,7 @@ Deployed an intentionally vulnerable honeypot in Microsoft Azure and captured **
 
 This project demonstrates cloud security monitoring by deploying a honeypot to attract real-world attacks, analyzing threat patterns with Wazuh SIEM, and mapping findings to industry frameworks (MITRE ATT&CK, PCI DSS).
 
-**Key Achievement:** Captured 2,953 SSH brute-force attacks within 24 hours, with techniques matching nation-state APT groups.
+**Key Achievement:** Captured 5,181 SSH brute-force attacks within 24 hours, with techniques matching nation-state APT groups.
 
 ---
 
@@ -22,7 +22,7 @@ This project demonstrates cloud security monitoring by deploying a honeypot to a
 
 | Metric | Result |
 |--------|--------|
-| **Total Attacks Captured** | 2,953 |
+| **Total Attacks Captured** | 5,181 |
 | **Time to First Attack** | <5 minutes |
 | **Peak Attack Rate** | 165 per 30 minutes |
 | **Attack Type** | SSH brute-force |
