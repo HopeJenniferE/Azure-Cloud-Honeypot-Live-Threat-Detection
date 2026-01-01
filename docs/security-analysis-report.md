@@ -10,10 +10,10 @@
 
 ## Executive Summary
 
-This report documents a security research project involving the deployment of an intentionally vulnerable honeypot system in Microsoft Azure to capture and analyze real-world cyber attacks. The honeypot successfully attracted **2,953 authentication-related attack attempts** within the first 24 hours of exposure to the internet.
+This report documents a security research project involving the deployment of an intentionally vulnerable honeypot system in Microsoft Azure to capture and analyze real-world cyber attacks. The honeypot successfully attracted **5,181 authentication-related attack attempts** within the first 24 hours of exposure to the internet.
 
 ### Key Findings:
-- **Total Security Events:** 2,953+ failed authentication attempts
+- **Total Security Events:** 5,181+ failed authentication attempts
 - **Peak Attack Period:** 18:00 UTC (165 events per 30-minute window)
 - **Attack Vectors:** SSH brute-force attacks, credential stuffing
 - **Threat Intelligence:** Attack patterns matched techniques used by nation-state APT groups including APT1 and Andariel
@@ -112,8 +112,8 @@ E. Document findings professionally
 
 | Metric | Count |
 |--------|-------|
-| Total Security Events | 2,953 |
-| Failed Authentication Attempts | 2,953 |
+| Total Security Events | 5,181 |
+| Failed Authentication Attempts | 5,181 |
 | Peak Activity (30-min window) | 165 events |
 | Average Events Per Hour | ~123 |
 
